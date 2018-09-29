@@ -1,0 +1,18 @@
+Subir proyecto
+Para subir un proyecto ya realizado a GitHub, habrá que seguir exactamente los mismos pasos, ya que para iniciar un proyecto nuevo, habrá que subir los archivos creados y luego modificarlos en el editor de la página.
+
+En este caso, los archivos junto con su contenido, ya están hechos. Solo hay que subirlos y editarlos si surge algún inconveniente.
+
+Para subir un archivo hay que ubicarse en la carpeta del repositorio y seguir estos pasos:
+Es importante realizar los 3, ya que si no se ingresa un comentario, no se realiza el cambio.
+
+Para adquirir un poco más de práctica y conocer más comandos de git, pueden ingresar a este turorial bastante práctico.
+
+Colaborar en un proyecto ajeno
+Para colaborar en un proyecto ajeno simplemente basta con buscarlo dentro de los repositorios, y luego presionar el botón fork. Esto genera automaticamente una copia del mismo en tu perfil.
+Crear un proyecto
+Al crear el repositorio, inmediatamente nos va a llevar a él. Como nuestro proyecto no tiene nada en su interior, no nos va a mostrar más que una ayuda para subir archivos y proyectos.
+
+Para crear un proyecto desde cero, habrá que comenzar creando los archivos del mismo y luego subiéndolos a la página.
+
+En el primer recuadro de la ayuda, verás una serie de comandos para el terminal.

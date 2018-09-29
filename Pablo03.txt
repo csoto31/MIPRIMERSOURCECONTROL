@@ -1,0 +1,24 @@
+GitHub
+"Build software better, together.", "Where software is built"
+GitHub logo 2013.svg
+Logotipo
+Página principal de GitHub.png
+Información general
+Dominio	https://github.com
+Tipo	Repositorio, Negocio y sitio web
+Comercial	Sí
+Registro	Opcional (se requiere para crear y unirse a proyectos)
+Idiomas disponibles	Inglés
+En español	No
+Estado actual	Activo
+Gestión
+Desarrollador	Tom Preston-Werner 
+Chris Wanstrath 
+PJ Hyett
+Propietario	Microsoft y GitHub Inc.
+Lanzamiento	8 de febrero de 2008
+Ranking Alexa	68, 62 y 64
+[editar datos en Wikidata]
+GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de computadora. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. Anteriormente era conocida como Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena típicamente de forma pública, aunque utilizando una cuenta de pago, también permite hospedar repositorios privados.
+
+El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7.500 millones de dólares.

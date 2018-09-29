@@ -1,0 +1,17 @@
+Este tutorial es una guía rápida para instalar y utilizar GitHub. Aquí se explica cómo crear un repositorio local, cómo conectar este repositorio local al repositorio remoto de Github (donde todo el mundo lo puede ver), cómo confirmar los cambios y finalmente cómo empujar todo el contenido del repositorio local hacia GitHub, entre otras tareas comunes.
+
+Antes de empezar, es importante tener en cuenta que este tutorial supone un conocimiento básico de los términos utilizados en Git: empujar (push), jalar (pull), guardar los cambios (commit), repositorio (repository), etc. También requiere el registro previo en GitHub.
+sudo apt-get install git
+En Fedora y derivados:
+
+sudo yum install git
+En Arch y derivados:
+
+sudo pacman -S git
+Configuración inicial de Github
+Una vez que la instalación se ha completado con éxito, el siguiente paso es configurar los detalles de configuración del usuario GitHub. Para ello, hay que utilizar los siguientes comandos sustituyendo “nombre_usuario” con tu nombre de usuario GitHub y “email_id” con la dirección de correo electrónico utilizada para crear la cuenta de GitHub.
+
+git config --global user.name "nombre_usuario"
+git config --global user.email "email_id"
+Creación de un repositorio local
+Lo primero es crear una carpeta en tu computadora, que servirá como un repositorio local. Para ello, basta ejecutar el siguiente comando:
