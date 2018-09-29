@@ -1,0 +1,15 @@
+Publicando contenidoSection
+Github es una comunidad muy importante y útil para involucrarse, y Git/GitHub es un sistema de control de versiones muy popular — la mayoría de las empresas de tecnología ahora lo utilizan en su flujo de trabajo. GitHub tiene una característica muy útil llamada GitHub pages, que te permite publicar el código del sitio en vivo en la Web.
+
+Configuración básica de GithubSection
+Primero que todo, instala Git en tu máquina. Este es el software del sistema de control de versiones subyacente en el que GitHub funciona.
+Seguido, Regístrate para una cuenta de GitHub. Es simple y fácil.
+Una vez te hayas registrado, inicia sesión en github.com con tu nombre de usuario y contraseña.
+Preparando tu código para subirloSection
+Tú puedes almacenar cualquier código que tu quieras en un repositorio de Github, pero para usar la característica páginas de Github con pleno efecto, tu código debe estar estructurado como un sitio web típico, por ejemplo que el punto de entrada primario sea un archivo HTML llamado index.html.
+
+La otra cosa que necesitas hacer antes de seguir adelante es inicializar el directorio de código como un repositorio Git. para hacer esto:
+
+Apunta la línea de comandos a tu directorio test-site (o como se llame el directorio que contiene tu sitio web). Para esto, usa el comando cd (Es decir "cambio de directorio"). Esto es lo que deberías digitar si has puesto tu sitio web en un directorio llamado test-site en tu escritorio:
+Cuando la línea comandos está apuntando hacia el interior del directorio de tu sitio web, digita el siguiente comando, que le dice a la 
+herramienta git para convertir el directorio en un repositorio git:
