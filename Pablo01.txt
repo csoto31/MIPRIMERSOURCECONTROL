@@ -4,13 +4,5 @@ que después fue aprobado como un estándar por la ECMA (ECMA-334) e ISO (ISO/IEC 
 C# es uno de los lenguajes de programación diseñados para la infraestructura de lenguaje común.
 Su sintaxis básica deriva de C/C++ y utiliza el modelo de objetos de la plataforma .NET,
 similar al de Java, 
-aunque incluye mejoras derivadas de otros lenguajes.
-El nombre C Sharp fue inspirado por el signo '#' 
-que se compone de cuatro signos '+' pegados.
-Aunque C# forma parte de la plataforma .NET, ésta es una API, 
-mientras que C# es un lenguaje de programación independiente diseñado para generar programas sobre dicha plataforma. 
-Ya existe un compilador implementado que provee el marco Mono - DotGNU,
-el cual genera programas 
-para distintas 
-plataformas como Windows Microsoft, Unix, Android,
- iOS, Windows Phone, Mac OS y GNU/Linux.
+Subir proyecto
+Para subir un proyecto ya realizado a GitHub, habrá que seguir exactamente los mismos pasos, ya que para iniciar un proyecto nuevo, habrá que subir los archivos creados y luego modificarlos en el editor de la página.
